@@ -17,5 +17,7 @@ const GetCharacter= () =>{
         console.log(name,image,status,type);
     });
 }
+
 GetCharacter();
+
 console.log(characterInfo);
